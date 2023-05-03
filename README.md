@@ -26,3 +26,9 @@ Besides data entry, optical character recognition has potential uses in a few ot
 [Neural Network Trainer](https://colab.research.google.com/drive/1vE2kGFQ-nWHHI8ZM71D01czNPJu9eGK0?usp=sharing)
 
 [OCR Implementation](https://colab.research.google.com/drive/1C4L0XzkFBwRljJ8TlpsS-3q34N5cz-bB?usp=sharing)
+### Supplemental Files
+[Fonts (for Data Generator)](https://drive.google.com/drive/folders/1Bs7ARDcBtNf9CIhqb6UO_tECjTPBSIJA?usp=sharing)
+
+[3-line test Image (for OCR)](https://drive.google.com/file/d/1iiKrQHQDww1vL3D9aYItFXc3pom93Ymy/view?usp=share_link)
+
+[4-line test Image (for OCR)](https://drive.google.com/file/d/1PFLTumb_rULhX4h8d58G4LJWFS5_wcBa/view?usp=sharing)
