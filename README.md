@@ -3,7 +3,7 @@
 This project shows a major application of neural networks in Optical Character Recognition (OCR) programs. The primary purpose of an OCR is to take an image of text as input, typed or handwritten, and transcribe that into editable text, which in this case uses a neural network.
 
 ## Intro
-While document scanning for computers has existed since the 1950's, they always yield images rather than text. Until recently, to edit documents their content would have to be manually transcribed into a text editor to have full reign over it. Entire jobs are dedicated to data entry for this purpose. An optical character recognition program can do the same thing, 'reading' the document line-by-line and giving a character-by-character output of the text.
+While document scanning for computers has existed since the 1950's, they always yielded images rather than text. Until recently, to edit documents their content would have to be manually transcribed into a text editor to have full reign over it. Entire jobs are dedicated to data entry for this purpose. An optical character recognition program can do the same thing, 'reading' the document line-by-line and giving a character-by-character output of the text.
 
 ## How does this work?
 After an image is given to the program, it takes several steps to process it before the neural network is even brought out. 
