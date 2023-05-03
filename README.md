@@ -1,4 +1,3 @@
-![Image goes here](/mdimage.png)
 # Jonathan's OCR
 This project shows a major application of neural networks in Optical Character Recognition (OCR) programs. The primary purpose of an OCR is to take an image of text as input, typed or handwritten, and transcribe that into editable text, which in this case uses a neural network.
 
