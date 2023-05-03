@@ -12,6 +12,8 @@ After an image is given to the program, it takes several steps to process it bef
 3. Individual characters are isolated through another algorithm made to detect centered letters
 4. Finally, the isolated characters are sent through the neural network in order to get its best predicitons at what letters they are
 
+The neural network in question is a version of Alexnet, an 8-layer image recognition neural network, modified to take smaller input images.
+
 ## Potential Applications
 Besides data entry, optical character recognition has potential uses in a few other areas of society. For example, if combined with text-to-speech software, it can be used to assist those with visual impairments with reading, or to more easily read and record license plates of cars for law enforcement purposes.
 
