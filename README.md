@@ -20,7 +20,7 @@ Besides data entry, optical character recognition has potential uses in a few ot
 ### Slides
 [Optical Character Recognition Presentation](https://docs.google.com/presentation/d/1dIJkuKfhJOnO3VB-USG3ehLedF0QdfkLc2Te0dXiRb0/edit?usp=sharing)
 ### YouTube
-[How to use this yourself]()
+[How to use this yourself](https://youtu.be/ySw7aqsLaps)
 ### Notebooks (run in order)
 [Data Generator](https://colab.research.google.com/drive/1wfdl94u4X1igQXAmDT3_938Z9CkuV5az?usp=sharing)
 
